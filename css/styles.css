@@ -71,6 +71,14 @@ main section {
   justify-content: center;
 }
 
+.actors {
+display: flex;
+}
+
+img {
+width: 120px;
+}
+
 /************
 FOOTER
 ************/
